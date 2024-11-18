@@ -1,0 +1,17 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-MOBA_GameProject.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\Billy\Documents\MOBA-Game\MOBA_GameProject\Intermediate\Build\Win64\x64\MOBA_GameProjectEditor\Development\Engine\SharedPCH.Engine.Cpp20.h.obj"
+"C:\Users\Billy\Documents\MOBA-Game\MOBA_GameProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\MOBA_GameProject\MOBA_GameProject.init.gen.cpp.obj"
+"C:\Users\Billy\Documents\MOBA-Game\MOBA_GameProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\MOBA_GameProject\MOBA_GameProjectCharacter.gen.cpp.obj"
+"C:\Users\Billy\Documents\MOBA-Game\MOBA_GameProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\MOBA_GameProject\MOBA_GameProjectGameMode.gen.cpp.obj"
+"C:\Users\Billy\Documents\MOBA-Game\MOBA_GameProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\MOBA_GameProject\MOBA_GameProject.cpp.obj"
+"C:\Users\Billy\Documents\MOBA-Game\MOBA_GameProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\MOBA_GameProject\MOBA_GameProjectCharacter.cpp.obj"
+"C:\Users\Billy\Documents\MOBA-Game\MOBA_GameProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\MOBA_GameProject\MOBA_GameProjectGameMode.cpp.obj"
+"C:\Users\Billy\Documents\MOBA-Game\MOBA_GameProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\MOBA_GameProject\Default.rc2.res"
+/OUT:"C:\Users\Billy\Documents\MOBA-Game\MOBA_GameProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\MOBA_GameProject\UnrealEditor-MOBA_GameProject.lib"
